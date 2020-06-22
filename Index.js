@@ -505,4 +505,3 @@ connectDB()
 app.listen(port, () => console.log(`Server started on port ${port}`));
 
 
-//mongodb+srv://ClownAdmin:clowns4life61521561@clownconnector-ypqob.gcp.mongodb.net/JuicyPost?retryWrites=true&w=majority
